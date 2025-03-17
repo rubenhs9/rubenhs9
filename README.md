@@ -22,12 +22,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rubenhs9/rubenhs9/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
+![Imagen de mi repositorio](https://github.com/rubenhs9/rubenhs9/blob/1047cc1817488cef2518235481f7ed331a31c0a2/insert%20some_code%20here%20(1).png)
