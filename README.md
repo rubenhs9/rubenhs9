@@ -6,6 +6,11 @@
 
 ###
 
+<h1 align="left">Tools</h1>
+
+###
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -26,7 +31,5 @@
 
 ###
 
-<h1 align="left">Sobre mí</h1>
 
-<p>Aquí puedes agregar tu experiencia profesional y cualquier información relevante sobre ti.</p>
 
