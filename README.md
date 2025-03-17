@@ -2,6 +2,10 @@
 
 ###
 
+![Imagen de mi repositorio](https://github.com/rubenhs9/rubenhs9/blob/1047cc1817488cef2518235481f7ed331a31c0a2/insert%20some_code%20here%20(1).png)
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -22,4 +26,7 @@
 
 ###
 
-![Imagen de mi repositorio](https://github.com/rubenhs9/rubenhs9/blob/1047cc1817488cef2518235481f7ed331a31c0a2/insert%20some_code%20here%20(1).png)
+<h1 align="left">Sobre mí</h1>
+
+<p>Aquí puedes agregar tu experiencia profesional y cualquier información relevante sobre ti.</p>
+
