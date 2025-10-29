@@ -1,33 +1,43 @@
+# 💻 Acerca de Mí
+
 ![MasterHead](https://raw.githubusercontent.com/rubenhs9/rubenhs9/refs/heads/main/Black%20and%20White%20Minimalist%20Marketing%20Manager%20Linkedin%20Banner.png)
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25">
-  <h2 style="margin: 0;"><strong>About Me</strong></h2>
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25">
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25"></td>
+      <td><h2 style="margin: 0; display: inline;"><strong>Sobre Mí</strong></h2></td>
+      <td><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25"></td>
+    </tr>
+  </table>
 </div>
-<hr style="width: 100%; border: 1px solid #ccc; margin-top: 10px;">
+
 <div align="justify">
 
-Hey! 👋 Soy Rubén, un apasionado del desarrollo de software con experiencia en distintos lenguajes y tecnologías. Me encanta enfrentar desafíos complejos, optimizar soluciones y construir aplicaciones que realmente funcionen.
+¡Hola! 👋 Soy Rubén, un apasionado del desarrollo de software con experiencia en diversos lenguajes y tecnologías. Me encanta enfrentar desafíos complejos, optimizar soluciones y construir aplicaciones que realmente marquen la diferencia.
 
-💻 **Lo que hago en el día a día:**
+**💻 Mi día a día:**
+Me dedico al desarrollo de aplicaciones y servicios, tanto en backend como en interfaces de usuario. Disfruto resolviendo problemas técnicos, implementando buenas prácticas y explorando nuevas herramientas para mantenerme siempre actualizado.
 
-Me dedico a desarrollar aplicaciones y servicios, tanto del lado del servidor como en interfaces de usuario. Disfruto resolviendo problemas técnicos, implementando buenas prácticas y aprendiendo nuevas herramientas y frameworks para mantenerme siempre actualizado.
-
-Soy un desarrollador curioso, metódico y con ganas de aprender continuamente. Me gusta pasar de la teoría a la práctica, enfrentar retos y aportar soluciones eficientes. Siempre con café en mano y listo para darle caña. 🚀
+Soy curioso, metódico y con una sed constante de aprendizaje. Me motiva transformar ideas en código funcional, enfrentar retos y aportar soluciones eficientes. Siempre con café en mano y listo para nuevos desafíos. 🚀
 
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNkM2ZpMG5icjgwNjBiZXhycTZmd2wzMDR5OTc1d2h0MXZ3ZWo2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LR5ZBwZHv02lmpVoEU/giphy.gif" width="50" height="40">
-  <h2 style="margin: 0;"><strong>Mi Stack Profesional</strong></h2>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNkM2ZpMG5icjgwNjBiZXhycTZmd2wzMDR5OTc1d2h0MXZ3ZWo2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LR5ZBwZHv02lmpVoEU/giphy.gif" width="50" height="40">
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNkM2ZpMG5icjgwNjBiZXhycTZmd2wzMDR5OTc1d2h0MXZ3ZWo2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LR5ZBwZHv02lmpVoEU/giphy.gif" width="40"></td>
+      <td><h2 style="margin: 0; display: inline;"><strong>Tecnologías & Herramientas</strong></h2></td>
+      <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNkM2ZpMG5icjgwNjBiZXhycTZmd2wzMDR5OTc1d2h0MXZ3ZWo2NiZlcD12MV9pbnRlrm5hbF9naWZfYnlfaWQmY3Q9Zw/LR5ZBwZHv02lmpVoEU/giphy.gif" width="40"></td>
+    </tr>
+  </table>
 </div>
-<hr style="width: 100%; border: 1px solid #ccc; margin-top: 10px;">
 
+## 🔧 Lenguajes de Programación
 
-### 🔧 Lenguajes de Programación
-
-<div align="left">
+<div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -37,9 +47,9 @@ Soy un desarrollador curioso, metódico y con ganas de aprender continuamente. M
 
 </div>
 
-### 🚀 Frameworks y Librerías
+## 🚀 Frameworks y Librerías
 
-<div align="left">
+<div align="center">
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
@@ -50,24 +60,25 @@ Soy un desarrollador curioso, metódico y con ganas de aprender continuamente. M
 
 </div>
 
-### 🗄️ Bases de Datos
+## 🗄️ Bases de Datos
 
-<div align="left">
+<div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-
 </div>
 
-### 🔨 Herramientas de Desarrollo
+## 🔨 Herramientas de Desarrollo
 
-<div align="left">
+<div align="center">
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 </div>
+
+<br>
