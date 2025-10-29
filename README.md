@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/rubenhs9/rubenhs9/refs/heads/main/Black%20and%20White%20Minimalist%20Marketing%20Manager%20Linkedin%20Banner.png)
 
-<h2 align="center">📫 Contacto</h2>
+<h2 align="center">📫Contacto📫</h2>
 
 <div align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/rubenhs9" target="_blank">
