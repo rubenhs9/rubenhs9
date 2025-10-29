@@ -3,13 +3,9 @@
 ![MasterHead](https://raw.githubusercontent.com/rubenhs9/rubenhs9/refs/heads/main/Black%20and%20White%20Minimalist%20Marketing%20Manager%20Linkedin%20Banner.png)
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25"></td>
-      <td><h2 style="margin: 0; display: inline;"><strong>Sobre Mí</strong></h2></td>
-      <td><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25"></td>
-    </tr>
-  </table>
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25">
+  <h2 style="display: inline; margin: 0 15px;"><strong>Sobre Mí</strong></h2>
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25">
 </div>
 
 <div align="justify">
@@ -26,13 +22,9 @@ Soy curioso, metódico y con una sed constante de aprendizaje. Me motiva transfo
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNkM2ZpMG5icjgwNjBiZXhycTZmd2wzMDR5OTc1d2h0MXZ3ZWo2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LR5ZBwZHv02lmpVoEU/giphy.gif" width="40"></td>
-      <td><h2 style="margin: 0; display: inline;"><strong>Tecnologías & Herramientas</strong></h2></td>
-      <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNkM2ZpMG5icjgwNjBiZXhycTZmd2wzMDR5OTc1d2h0MXZ3ZWo2NiZlcD12MV9pbnRlrm5hbF9naWZfYnlfaWQmY3Q9Zw/LR5ZBwZHv02lmpVoEU/giphy.gif" width="40"></td>
-    </tr>
-  </table>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNkM2ZpMG5icjgwNjBiZXhycTZmd2wzMDR5OTc1d2h0MXZ3ZWo2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LR5ZBwZHv02lmpVoEU/giphy.gif" width="40">
+  <h2 style="display: inline; margin: 0 15px;"><strong>Tecnologías & Herramientas</strong></h2>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNkM2ZpMG5icjgwNjBiZXhycTZmd2wzMDR5OTc1d2h0MXZ3ZWo2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LR5ZBwZHv02lmpVoEU/giphy.gif" width="40">
 </div>
 
 ## 🔧 Lenguajes de Programación
