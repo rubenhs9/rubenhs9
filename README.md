@@ -1,31 +1,31 @@
 ![MasterHead](https://raw.githubusercontent.com/rubenhs9/rubenhs9/refs/heads/main/Black%20and%20White%20Minimalist%20Marketing%20Manager%20Linkedin%20Banner.png)
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25">
-  <h2 style="margin: 0;"><strong>About Me</strong></h2>
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25">
-</div>
-<hr style="width: 100%; border: 1px solid #ccc; margin-top: 10px;">
+
+<h2 align="left">
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"  width="25" height="25">
+  About Me
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"  width="25" height="25">
+</h2>
+
+
 <div align="justify">
+¡Hola! 👋 Soy Rubén, un apasionado del desarrollo de software con experiencia en diversos lenguajes y tecnologías. Me encanta enfrentar desafíos complejos, optimizar soluciones y construir aplicaciones que realmente marquen la diferencia.
 
-Hey! 👋 Soy Rubén, un apasionado del desarrollo de software con experiencia en distintos lenguajes y tecnologías. Me encanta enfrentar desafíos complejos, optimizar soluciones y construir aplicaciones que realmente funcionen.
+**💻 Mi día a día:**
+Me dedico al desarrollo de aplicaciones y servicios, tanto en backend como en interfaces de usuario. Disfruto resolviendo problemas técnicos, implementando buenas prácticas y explorando nuevas herramientas para mantenerme siempre actualizado.
 
-💻 **Lo que hago en el día a día:**
-
-Me dedico a desarrollar aplicaciones y servicios, tanto del lado del servidor como en interfaces de usuario. Disfruto resolviendo problemas técnicos, implementando buenas prácticas y aprendiendo nuevas herramientas y frameworks para mantenerme siempre actualizado.
-
-Soy un desarrollador curioso, metódico y con ganas de aprender continuamente. Me gusta pasar de la teoría a la práctica, enfrentar retos y aportar soluciones eficientes. Siempre con café en mano y listo para darle caña. 🚀
+Soy curioso, metódico y con una sed constante de aprendizaje. Me motiva transformar ideas en código funcional, enfrentar retos y aportar soluciones eficientes. Siempre con café en mano y listo para nuevos desafíos. 🚀
 
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNkM2ZpMG5icjgwNjBiZXhycTZmd2wzMDR5OTc1d2h0MXZ3ZWo2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LR5ZBwZHv02lmpVoEU/giphy.gif" width="50" height="40">
-  <h2 style="margin: 0;"><strong>Mi Stack Profesional</strong></h2>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNkM2ZpMG5icjgwNjBiZXhycTZmd2wzMDR5OTc1d2h0MXZ3ZWo2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LR5ZBwZHv02lmpVoEU/giphy.gif" width="50" height="40">
-</div>
-<hr style="width: 100%; border: 1px solid #ccc; margin-top: 10px;">
+<br>
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35" height="35">
+  Tecnologias y Herramientas
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="35" height="35">
+</h2>
 
-### 🔧 Lenguajes de Programación
+## 🔧 Lenguajes de Programación
 
 <div align="left">
 
@@ -37,7 +37,7 @@ Soy un desarrollador curioso, metódico y con ganas de aprender continuamente. M
 
 </div>
 
-### 🚀 Frameworks y Librerías
+## 🚀 Frameworks y Librerías
 
 <div align="left">
 
@@ -50,7 +50,7 @@ Soy un desarrollador curioso, metódico y con ganas de aprender continuamente. M
 
 </div>
 
-### 🗄️ Bases de Datos
+## 🗄️ Bases de Datos
 
 <div align="left">
 
@@ -59,10 +59,9 @@ Soy un desarrollador curioso, metódico y con ganas de aprender continuamente. M
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-
 </div>
 
-### 🔨 Herramientas de Desarrollo
+## 🔨 Herramientas de Desarrollo
 
 <div align="left">
 
@@ -71,3 +70,7 @@ Soy un desarrollador curioso, metódico y con ganas de aprender continuamente. M
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 </div>
+
+<br>
+
+Tengo un problema con este readme, el tema es que en vs code, y en el preview o dentro del propio repositorio, veo todo en su sitio, pero luego en mi perfil no se ve igual. Ayudame
