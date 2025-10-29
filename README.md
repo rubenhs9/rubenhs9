@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 <h1 align="center">💻 Rubén De Las Heras Silveira 💻</h1>
+=======
+## Hi there 👋
+>>>>>>> parent of f1db12b (Update README.md)
 
-###
+<!--
+**rubenhs9/rubenhs9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<<<<<<< HEAD
 ![Imagen de mi repositorio](https://github.com/rubenhs9/rubenhs9/blob/1047cc1817488cef2518235481f7ed331a31c0a2/insert%20some_code%20here%20(1).png)
 
 ###
@@ -50,3 +56,16 @@
 
 
 
+=======
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> parent of f1db12b (Update README.md)
