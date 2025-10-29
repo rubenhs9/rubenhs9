@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/rubenhs9/rubenhs9/refs/heads/main/Black%20and%20White%20Minimalist%20Marketing%20Manager%20Linkedin%20Banner.png)
 
-<h2 align="left">
+<h2 align="center">
   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"  width="25" height="25">
   About Me
   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"  width="25" height="25">
