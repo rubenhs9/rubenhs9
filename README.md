@@ -1,11 +1,21 @@
 ![MasterHead](https://raw.githubusercontent.com/rubenhs9/rubenhs9/refs/heads/main/Black%20and%20White%20Minimalist%20Marketing%20Manager%20Linkedin%20Banner.png)
 
+<h2 align="center">📫 Contacto</h2>
+
+<div align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/rubenhs9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rubén-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ruben@example.com">
+    <img src="https://img.shields.io/badge/Email-Rubén-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"  width="25" height="25">
   About Me
   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"  width="25" height="25">
 </h2>
-
 
 <table>
 <tr>
