@@ -7,15 +7,27 @@
 </h2>
 
 
-<div align="justify">
-¡Hola! 👋 Soy Rubén, un apasionado del desarrollo de software con experiencia en diversos lenguajes y tecnologías. Me encanta enfrentar desafíos complejos, optimizar soluciones y construir aplicaciones que realmente marquen la diferencia.
+<table>
+<tr>
+<td>
 
-**💻 Mi día a día:**
-Me dedico al desarrollo de aplicaciones y servicios, tanto en backend como en interfaces de usuario. Disfruto resolviendo problemas técnicos, implementando buenas prácticas y explorando nuevas herramientas para mantenerme siempre actualizado.
+¡Hola! 👋 Soy Rubén, un apasionado del desarrollo de software con experiencia en diversos lenguajes y tecnologías.  
+Me encanta enfrentar desafíos complejos, optimizar soluciones y construir aplicaciones que realmente marquen la diferencia.  
 
-Soy curioso, metódico y con una sed constante de aprendizaje. Me motiva transformar ideas en código funcional, enfrentar retos y aportar soluciones eficientes. Siempre con café en mano y listo para nuevos desafíos. 🚀
+**💻 Mi día a día:**  
+Me dedico al desarrollo de aplicaciones y servicios, tanto en backend como en interfaces de usuario.  
+Disfruto resolviendo problemas técnicos, implementando buenas prácticas y explorando nuevas herramientas para mantenerme siempre actualizado.  
 
-</div>
+Soy curioso, metódico y con una sed constante de aprendizaje.  
+Me motiva transformar ideas en código funcional, enfrentar retos y aportar soluciones eficientes.  
+Siempre con café en mano y listo para nuevos desafíos. 🚀
+
+</td>
+</tr>
+</table>
+
+
+
 
 <br>
 
@@ -26,51 +38,39 @@ Soy curioso, metódico y con una sed constante de aprendizaje. Me motiva transfo
 </h2>
 
 ## 🔧 Lenguajes de Programación
-
 <div align="left">
-
+  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 </div>
 
 ## 🚀 Frameworks y Librerías
-
 <div align="left">
-
+  
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-0052CC?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
 </div>
 
 ## 🗄️ Bases de Datos
-
 <div align="left">
-
+  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
 </div>
 
 ## 🔨 Herramientas de Desarrollo
-
 <div align="left">
-
+  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
 </div>
-
-<br>
-
-Tengo un problema con este readme, el tema es que en vs code, y en el preview o dentro del propio repositorio, veo todo en su sitio, pero luego en mi perfil no se ve igual. Ayudame
