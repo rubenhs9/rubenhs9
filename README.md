@@ -1,71 +1,73 @@
-<<<<<<< HEAD
-<h1 align="center">💻 Rubén De Las Heras Silveira 💻</h1>
-=======
-## Hi there 👋
->>>>>>> parent of f1db12b (Update README.md)
+![MasterHead](https://raw.githubusercontent.com/rubenhs9/rubenhs9/refs/heads/main/Black%20and%20White%20Minimalist%20Marketing%20Manager%20Linkedin%20Banner.png)
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25">
+  <h2 style="margin: 0;"><strong>About Me</strong></h2>
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25">
+</div>
+<hr style="width: 100%; border: 1px solid #ccc; margin-top: 10px;">
+<div align="justify">
 
-<!--
-**rubenhs9/rubenhs9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! 👋 Soy Rubén, un apasionado del desarrollo de software con experiencia en distintos lenguajes y tecnologías. Me encanta enfrentar desafíos complejos, optimizar soluciones y construir aplicaciones que realmente funcionen.
 
-<<<<<<< HEAD
-![Imagen de mi repositorio](https://github.com/rubenhs9/rubenhs9/blob/1047cc1817488cef2518235481f7ed331a31c0a2/insert%20some_code%20here%20(1).png)
+💻 **Lo que hago en el día a día:**
 
-###
+Me dedico a desarrollar aplicaciones y servicios, tanto del lado del servidor como en interfaces de usuario. Disfruto resolviendo problemas técnicos, implementando buenas prácticas y aprendiendo nuevas herramientas y frameworks para mantenerme siempre actualizado.
 
-<h1 align="center">Tools</h1>
+Soy un desarrollador curioso, metódico y con ganas de aprender continuamente. Me gusta pasar de la teoría a la práctica, enfrentar retos y aportar soluciones eficientes. Siempre con café en mano y listo para darle caña. 🚀
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNkM2ZpMG5icjgwNjBiZXhycTZmd2wzMDR5OTc1d2h0MXZ3ZWo2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LR5ZBwZHv02lmpVoEU/giphy.gif" width="50" height="40">
+  <h2 style="margin: 0;"><strong>Mi Stack Profesional</strong></h2>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNkM2ZpMG5icjgwNjBiZXhycTZmd2wzMDR5OTc1d2h0MXZ3ZWo2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LR5ZBwZHv02lmpVoEU/giphy.gif" width="50" height="40">
+</div>
+<hr style="width: 100%; border: 1px solid #ccc; margin-top: 10px;">
 
-<h1 align="center">Social Media</h1>
 
-###
+### 🔧 Lenguajes de Programación
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rubenhs9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+<div align="left">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 </div>
 
-###
+### 🚀 Frameworks y Librerías
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubenhs9&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="left">
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-0052CC?style=for-the-badge&logo=dotnet&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
 </div>
 
-###
+### 🗄️ Bases de Datos
+
+<div align="left">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
+</div>
 
-=======
-Here are some ideas to get you started:
+### 🔨 Herramientas de Desarrollo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> parent of f1db12b (Update README.md)
+<div align="left">
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+</div>
