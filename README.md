@@ -29,7 +29,7 @@ Disfruto resolviendo problemas técnicos, implementando buenas prácticas y expl
 
 Soy curioso, metódico y con una sed constante de aprendizaje.  
 Me motiva transformar ideas en código funcional, enfrentar retos y aportar soluciones eficientes.  
-Siempre con café en mano y listo para nuevos desafíos. 🚀
+Siempre listo para nuevos desafíos. 🚀
 
 </td>
 </tr>
